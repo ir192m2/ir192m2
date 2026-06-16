@@ -38,21 +38,21 @@
 
 **AI / LLM & Protocols:**
 <br>
-<a href="https://modelcontextprotocol.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Model_Context_Protocol-855CF8?style=for-the-badge&logo=mcp&logoColor=white" alt="mcp" height="40"/> </a>
-<a href="https://ollama.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" alt="ollama" height="40"/> </a>
-<a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="huggingface" height="40"/> </a>
+<a href="https://modelcontextprotocol.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ir192m2/ir192m2/main/mcp.svg" alt="mcp" width="40" height="40"/> </a>
+<a href="https://ollama.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="ollama" width="40" height="40"/> </a>
+<a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="huggingface" width="40" height="40"/> </a>
 
 **Databases & Storage:**
 <br>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" height="40"/> </a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/> </a>
 
 **Tools & Infra:**
 <br>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Copernicium282/Copernicium282/main/vscode.svg" alt="vscode" width="40" height="40"/> </a>
-<a href="https://zed.dev/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Zed-087CFF?style=for-the-badge&logo=zed&logoColor=white" alt="zed" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="bash" height="40"/> </a>
+<a href="https://zed.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ir192m2/ir192m2/main/zed.svg" alt="zed" width="40" height="40"/> </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
 
 </div>
 
