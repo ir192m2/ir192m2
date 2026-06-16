@@ -1,25 +1,29 @@
-name: Generate Snake Animation
+name: generate-snake-game-from-github-contribution-grid
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
-
-permissions:
-  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - uses: actions/checkout@v4
+
+      - uses: Platane/snk@v3.5.0
+        id: snake
         with:
           github_user_name: ir192m2
-          outputs: dist/snake.svg,dist/snake-dark.svg
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
 
       - uses: peaceiris/actions-gh-pages@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
+          keep_files: false
+          publish_dir: ./dist
           destination_dir: .
-          keep_files: true
+          github_token: ${{ secrets.GITHUB_TOKEN }}
