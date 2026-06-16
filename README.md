@@ -7,7 +7,7 @@
 
 <div align="center">
 
-- 🔭 I’m currently working on **MCP bridges for Minecraft mods + quant alpha generation with LLM swarms**
+- 🔭 I’m currently working on **MCP bridges for Minecraft mods**
 
 - 🌱 I’m currently learning **Rust, graph algorithms, LLM agent orchestration**
 
@@ -67,7 +67,6 @@
 | **[zenscript-toolkit](https://github.com/ir192m2/zenscript-toolkit)** | Zed extension for ZenScript + Minecraft .lang + bracket completions | Rust, Tree-sitter |
 | **[tree-sitter-zenscript](https://github.com/ir192m2/tree-sitter-zenscript)** | Complete tree-sitter grammar for CraftTweaker's ZenScript | C |
 | **[vscode-solidity](https://github.com/ir192m2/vscode-solidity)** | VSCode language support for Solidity smart contracts | TypeScript |
-| **[WQ_BRAIN_SIM](https://github.com/ir192m2/WQ_BRAIN_SIM)** | 6-agent LLM swarm for WorldQuant BRAIN alpha generation | Python, LiteLLM, FastAPI |
 
 </div>
 
