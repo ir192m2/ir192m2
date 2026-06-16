@@ -74,7 +74,7 @@
 
 <div align="center">
   <a href="https://github-trophies.devomb.com/?username=ir192m2&theme=dark&no-frame=true&no-bg=true&margin-w=4&title=-Stars,-Followers,-Issues,-PullRequest,-Reviews&column=4">
-    <img src="https://github-trophies.devomb.com/?username=ir192m2&theme=dark&no-frame=true&no-bg=true&margin-w=4&title=-Stars,-Followers,-Issues,-PullRequest,-Reviews&column=4" alt="ir192m2 trophies" />
+    <img src="https://github-trophies.devomb.com/?username=ir192m2&theme=dark&no-frame=true&no-bg=true&margin-w=4&title=-Stars,-Followers,-Issues,-PullRequest,-Reviews&column=3" alt="ir192m2 trophies" />
   </a>
 </div>
 
