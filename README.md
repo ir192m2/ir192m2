@@ -66,7 +66,6 @@
 | **[jei-mcp](https://github.com/ir192m2/jei-mcp)** | MCP bridge for JEI — AI queries 21K+ items and 27M+ recipe relationships | Java, TypeScript, SQLite FTS5 |
 | **[zenscript-toolkit](https://github.com/ir192m2/zenscript-toolkit)** | Zed extension for ZenScript + Minecraft .lang + bracket completions | Rust, Tree-sitter |
 | **[tree-sitter-zenscript](https://github.com/ir192m2/tree-sitter-zenscript)** | Complete tree-sitter grammar for CraftTweaker's ZenScript | C |
-| **[vscode-solidity](https://github.com/ir192m2/vscode-solidity)** | VSCode language support for Solidity smart contracts | TypeScript |
 
 </div>
 
